@@ -13,16 +13,16 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   手机：15029053784
-*   Email：jztan1996@outlook.com
-*   QQ/微信号:577964075/tjz19960421
+*   手机：13937113477
+*   Email：717219917@qq.com
+*   QQ/微信号:717219917
 
 * * *
 
 # 个人信息
 
-*   谭继臻/男/1996 
+*   鹏宝宝/男/1993 
 *   本科/西安电子科技大学 
-*   技术博客: <http://segmentfault.com/u/qinzhi/blogs>
-*   Github: <https://github.com/damonare>
+*   技术博客: <http://www.cnblogs.com/andlp/>
+*   Github: <https://github.com/liupeng110>
 
